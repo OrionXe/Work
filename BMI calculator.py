@@ -1,8 +1,5 @@
-""" [12:54, 30.09.2021] Simona: You need to calculate the flight time of an upcoming trip. You are flying from LA to Sydney, covering a distance of 7425 miles, the plane flies at an average speed of 550 miles an hour.
 
-Calculate and output the total flight time in hours.
-FLIGHT TIME
-[12:56, 30.09.2021] Simona: Tracking your BMI is a useful way of checking if you’re maintaining a healthy weight. It’s calculated using a person's weight and height, using this formula: weight / height²
+""" Tracking your BMI is a useful way of checking if you’re maintaining a healthy weight. It’s calculated using a person's weight and height, using this formula: weight / height²
 
 The resulting number indicates one of the following categories:
 Underweight = less than 18.5
