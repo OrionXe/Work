@@ -27,13 +27,13 @@ age = int(input())
 standard = 0
 new = 0
 
-for i in data.values():
+for i in data.values():#parcurge dictionarul pentru discountul standard
     if i >= 18:
         standard += 20
     else:
         standard += 5
 
-for i in data.values():
+for i in data.values():#parcurge dictinarul pentru dicountul bazat pe varsta introdusa
     if i >= age:
         new += 20
     else:
