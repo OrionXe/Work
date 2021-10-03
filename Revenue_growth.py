@@ -1,4 +1,4 @@
-""" ou are analyzing sales data from a ticket office.
+""" You are analyzing sales data from a ticket office.
 The ticket for an adult is $20, while the ticket for a child under 18 is $5.
 The data you are given is in a dictionary format, where the keys are the sold ticket numbers, and the values are the customer ages.
 For example, "123-08": 24 means that the ticket was bought a 24 year old.
